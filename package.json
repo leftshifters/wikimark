@@ -1,0 +1,26 @@
+{
+  "name": "wikimark",
+  "version": "1.0.0",
+  "description": "Browse Github Wiki",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "github",
+    "gollum",
+    "wiki",
+    "markdown",
+    "static",
+    "server",
+    "serve"
+  ],
+  "author": "Debjeet Biswas",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.6.0",
+    "fs.extra": "^1.2.1",
+    "log": "^1.4.0",
+    "marked": "^0.3.2"
+  }
+}
