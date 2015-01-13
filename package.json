@@ -17,10 +17,14 @@
   ],
   "author": "Debjeet Biswas",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:leftshifters/wikimark.git"
+  },
   "dependencies": {
     "commander": "^2.6.0",
     "fs.extra": "^1.2.1",
-    "log": "^1.4.0",
+    "generate-github-markdown-css": "^1.0.2",
     "marked": "^0.3.2"
   }
 }
